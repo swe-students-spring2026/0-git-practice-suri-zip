@@ -12,5 +12,9 @@ It was interesting how quickly experienced software engineers began relying on a
 
 update: Just completed git config exercise. I forgot to do that before. -Suri
 
+## Comments from James Huang: 
+very interesting article. AI is indeed changing how we write code. 
+
 A simple project to practice a few git/github workflows.
 Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
