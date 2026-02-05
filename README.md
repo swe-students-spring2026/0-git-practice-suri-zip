@@ -10,5 +10,7 @@ I found this article interesting because it shows how AI is changing the way we 
 
 It was interesting how quickly experienced software engineers began relying on artificial intelligence to write code for them. Someone writing code by hand would probably fall behind if the others on their team are all using LLMs. In school we often aren't allowed to use generated code so that we learn basic concepts, so how will learning new skills in the workforce change when it is totally allowed there? -Grace
 
+update: Just completed git config exercise. I forgot to do that before. -Suri
+
 A simple project to practice a few git/github workflows.
 Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
